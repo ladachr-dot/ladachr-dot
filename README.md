@@ -4,7 +4,7 @@ I'm a Biotechnology student at ITMO University who is gradually moving deeper in
 
 ## My projects
 
-- [vtools-genomics](https://github.com/ladachr-dot/vtools-genomics) — genomic utilities, CLI/GUI tools, converters, and workflow automation.
+- [vtools-genomics](https://github.com/ladachr-dot/vtools-genomics) — genomic utilities.
 
 ## Current focus
 
