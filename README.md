@@ -1,16 +1,18 @@
 # Hi, I'm Vlada 👋
 
-I'm a Biotechnology student at ITMO University who is gradually moving deeper into bioinformatics, computational biology, and genomics workflows. I enjoy building practical tools for biological data, exploring biological datasets, and learning how to make analysis more reproducible and useful.
+I'm a Biotechnology student at ITMO University who is gradually moving deeper into bioinformatics and data analysis.
 
 ## My projects
 
 - [vtools-genomics](https://github.com/ladachr-dot/vtools-genomics) — genomic utilities.
 
+<!--
 ## Current focus
 
 - Genomics tooling in Python
 - RNA-seq / omics modeling
 - Reproducible bioinformatics workflows
+-->
 
 ## Languages
 
