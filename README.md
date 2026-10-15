@@ -1,6 +1,6 @@
 # Hi, I'm Vlada 
 
-I'm a Biotechnology student at ITMO University who is gradually moving deeper into bioinformatics and data analysis.
+I'm a Biotechnology student at ITMO University who is gradually moving deeper into data analysis.
 
 ## My projects
 
