@@ -18,7 +18,7 @@ I'm a Biotechnology student at ITMO University who is gradually moving deeper in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://shields.io)
+![SQL](https://shields.io/badge/SQL)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ## Tools
